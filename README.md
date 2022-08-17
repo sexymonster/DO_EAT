@@ -1,3 +1,3 @@
-# DO_EAT
+# UI/UX
 final project
 read me
